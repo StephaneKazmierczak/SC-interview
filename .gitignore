@@ -242,3 +242,6 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 # Ignore dynaconf secret files
 .secrets.*
+
+# ignore the data folder in the root directory
+data/
